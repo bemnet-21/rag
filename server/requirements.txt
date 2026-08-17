@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+pyjwt
+passlib[bcrypt]
+python-multipart
+psycopg2-binary
+asyncpg
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-voyageai
+pypdf
+pgvector
