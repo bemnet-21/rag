@@ -1,5 +1,3 @@
-# Project Summary: RAG Landing Page
-
 ## Project Overview
 The "RAG Landing Page" is a full-stack web application designed to provide a modern coworking experience enhanced by an AI-powered assistant. The core purpose is to allow users (and admins) to interact with an intelligent chatbot, upload and index documents for retrieval-augmented generation (RAG), and manage knowledge resources. The platform supports authentication, role-based access, and a seamless, modern UI for both general users and administrators.
 
